@@ -3755,10 +3755,7 @@
         "name":"DO_CONSENT"
       },
       {
-        "action":{
-          "type":"list",
-          "actions":[
-            {
+        "action":{  
               "type":"click",
               "target":{
                 "childFilter":{
@@ -3769,8 +3766,7 @@
                 },
                 "selector":"button.width--all-12"
               }
-            }
-          ]
+            } 
         },
         "name":"SAVE_CONSENT"
       }
