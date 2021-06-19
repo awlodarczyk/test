@@ -3758,7 +3758,7 @@
         "action":{
           "type":"click",
           "target":{
-            "selector":"#validate"
+            "selector":"button.width--all-12.span.btn.btn--mode-primary"
           }
         },
         "name":"SAVE_CONSENT"
