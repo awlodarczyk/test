@@ -3761,13 +3761,8 @@
             {
               "type":"click",
               "target":{
-                "childFilter":{
-                  "target":{
-                    "selector":"span.btn.btn--mode-primary",
-                    "textFilter":"Einstellungen speichern"
-                  }
-                },
-                "selector":"button.width--all-12"
+                "selector":"span.btn.btn--mode-primary"
+              
               }
             }
           ]
