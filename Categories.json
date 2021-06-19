@@ -1,0 +1,26 @@
+{
+  "sport": [
+    "https://sport.wp.pl",
+    "https://decathlon.pl"
+  ],
+  "health": [
+    "https://zdrowie.wp.pl",
+    "https://luxmed.pl"
+  ],
+  "journeys": [
+    "https://www.booking.com/"
+  ],
+  "games": [
+    "https://www.playstation.com",
+    "https://www.xbox.com/"
+  ],
+  "programming":[
+    "https://glassdoor.com",
+    "https://stackoverflow.com",
+    "https://medium.com"
+  ],
+  "banking": [
+    "https://mbank.pl",
+    "https://pkobp.pl"
+  ]
+}
