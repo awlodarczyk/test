@@ -3756,16 +3756,10 @@
       },
       {
         "action":{
-          "type":"list",
-          "actions":[
-            {
-              "type":"click",
-              "target":{
-                "selector":"span.btn.btn--mode-primary"
-              
-              }
-            }
-          ]
+          "type":"click",
+          "target":{
+            "selector":"#validate"
+          }
         },
         "name":"SAVE_CONSENT"
       }
